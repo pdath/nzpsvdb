@@ -13,7 +13,7 @@ plate recognition.
 ## Sample code:
 
 ```javascript
-var nzpsvdb=require('./index.js');
+var nzpsvdb=require('nzpsvdb');
 
 main = async function() {
 	await nzpsvdb.load();
