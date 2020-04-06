@@ -7,13 +7,13 @@
     "test": "test.js"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/pdath/nzpsvdb.git"
+    "type": "git",
+    "url": "https://github.com/pdath/nzpsvdb.git"
   },
   "author": "Philip D'Ath <pid@ifm.net.nz> (http://www.ifm.net.nz)",
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^2.3.2",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   }
 }
